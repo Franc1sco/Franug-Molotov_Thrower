@@ -1,0 +1,11 @@
+"MolotovWeapon"
+{
+	"weapon_negev"
+	{
+		"model" "models/weapons/eminem/ethereal/v_ethereal.mdl"
+		"worldmodel" "models/weapons/eminem/ethereal/w_ethereal.mdl"
+		"worldmodel" "models/weapons/eminem/ethereal/w_ethereal_dropped.mdl"
+		
+		"flag" ""
+	}
+}
